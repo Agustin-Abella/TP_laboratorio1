@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567823419 source:c:\users\samsung 1\desktop\programacion c\calculadora0.0.1\funciones.c
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+
+1567823272 c:\users\samsung 1\desktop\programacion c\calculadora0.0.1\funciones.h
+
+1567823313 source:c:\users\samsung 1\desktop\programacion c\calculadora0.0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.h"
+
