@@ -15,7 +15,7 @@ int tomarOpcion(void);
  *
  */
 double pedirValor(void);
-/** \brief toma el valor B ingresado por el usuario
+/** \brief toma el valor A y B ingresado por el usuario
  *
  * \param void no recibe parametros
  * \return double devuelve el valor ingresado por el usuario
